@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="plugin" group="system" version="2.5.0">
+	<name>Plugin Hello World</name>
+	<author>Ken Erickson</author>
+	<creationDate>May 2012</creationDate>
+	<copyright>none</copyright>
+	<license>none</license>
+	<authorEmail>bookworm.productions@gmail.com</authorEmail>
+	<authorUrl>http://designbreakdown.com</authorUrl>
+	<version>0.0.1</version>
+	<description>Hello World</description>
+	<files>
+		<filename plugin="helloworld">helloworld.php</filename>
+	</files>
+</install>
