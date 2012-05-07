@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="template" client="site" version="2.5.0">
+	<name>Template Hello World</name>
+	<author>Ken Erickson</author>
+	<creationDate>May 2012</creationDate>
+	<copyright>none</copyright>
+	<license>none</license>
+	<authorEmail>bookworm.productions@gmail.com</authorEmail>
+	<authorUrl>http://designbreakdown.com</authorUrl>
+	<version>0.0.1</version>
+	<description>Hello World</description>
+	<files folder="site/templates/helloworld">
+		<filename>index.php</filename>
+	</files>
+</install>
