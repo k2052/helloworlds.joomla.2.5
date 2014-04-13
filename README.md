@@ -8,3 +8,8 @@ All the extensions are organized so that you can symlink them to your Joomla! in
 You can manually symlink the folders but I highly recommend you install the nooku-symlinker. It cuts down 2-3 commands into one. It's available at http://www.nooku.org/framework.html      
 
 *I'll try to write more docs here soon* I needed some blank extensions for tests and thought I'd share.
+
+## Support
+
+If you found this repo useful please consider supporting me on [Gittip](https://www.gittip.com/k2052) or sending me some
+bitcoin `1csGsaDCFLRPPqugYjX93PEzaStuqXVMu`
